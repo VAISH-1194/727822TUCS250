@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Rajinikanth",
+        "postCount": 542,
+        "bio": "Superstar of Indian cinema"
+      },
+      {
+        "id": 2,
+        "name": "Kamal Haasan", 
+        "postCount": 387,
+        "bio": "Versatile actor and filmmaker"
+      },
+      {
+        "id": 3,
+        "name": "Vijay",
+        "postCount": 623,
+        "bio": "Thalapathy of Tamil cinema"
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "userId": 1,
+        "title": "New Movie Announcement",
+        "body": "Excited for my new project!",
+        "commentCount": 12450,
+        "timestamp": "2023-06-15T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "title": "Film Festival",
+        "body": "Attending Cannes this year",
+        "commentCount": 8765,
+        "timestamp": "2023-06-14T09:30:00Z"
+      }
+    ]
+  }
